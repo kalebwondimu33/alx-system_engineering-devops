@@ -1,4 +1,3 @@
-#!/bin/bash
-export BEST=School
-
+echo "export BEST=\"School\"" >> ~/.bashrc
+source ~/.bashrc
 
